@@ -1,0 +1,17 @@
+body
+{background-color: rgb(93, 161, 184);}
+
+tbody
+{background-color: black;}
+
+img 
+{ left: 220px; height: 220px;}
+
+td {color: blue; text-align: center; font-family: "Raleway", sans-serif;}
+
+h1 {color: black; text-align: center; font-family:"Raleway", sans-serif;}
+
+h2 {color: rgb(93, 161, 184); text-align: center; font-family:"Raleway", sans-serif;}
+
+h3 {color: white; text-align: center; font-family: "Exo 2", sans-serif; font-optical-sizing: auto; font-weight: weight; font-style: normal;}
+
